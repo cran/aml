@@ -1,0 +1,15 @@
+ad78075f96ec5097a0de13f0553a2681 *DESCRIPTION
+0c7f9f404a7b56fd9bb36e6e5be00618 *NAMESPACE
+7228f0123de87a46f5e108724906d121 *R/aml.estimate.R
+7576a16cebda10427d8ba1d70ad1657d *R/aml.pred.outside.R
+8522d9eecca0b03db782aa5b3a54aab5 *R/amltest.R
+cdae06c7461b9032d26c817d11559f32 *R/au.function.R
+c11e6f357de45ccc298288f54eb79126 *R/cleanclust.R
+9599d8245d0a0abba52cd605ae8ff521 *R/epigen.R
+9c7d1c754ae2301b039ba211d66ae780 *data/wheat.RData
+55c29127e009e033df993d31e71b9866 *man/aml.estimate.Rd
+e33466dbaafcf0a3a78e18ac71b0537c *man/aml.pred.outside.Rd
+5807dc117637df90aa8fc3caabf2e290 *man/amltest.Rd
+2e4eb7b39ab5326f24ba2299dcee1aab *man/cleanclust.Rd
+fc5e5e2cdcfd624cf2e4627a09c15e27 *man/epigen.Rd
+c7a89b866c126030f56ad61da32d3e16 *man/wheat.Rd
